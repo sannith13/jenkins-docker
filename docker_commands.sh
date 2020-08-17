@@ -1,5 +1,5 @@
 # prefix commands with sudo if user is not in docker group
-# build docker image
+# build docker image no
 docker build -t myapp .
 
 # check docker image
