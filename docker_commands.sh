@@ -1,4 +1,4 @@
-# prefix commands with sudo if user is not in docker group
+# prefix1 commands with sudo if user is not in docker group
 # build docker image
 docker build -t hands-on-jenkins/myapp .
 
